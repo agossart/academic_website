@@ -23,18 +23,16 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Image credit: [**Nate Hughes **](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC5LlRZO0Dtu0T58x4_aLLJuyTiea5IEe0qg&usqp=CAU)'
   focal_point: ""
   placement: 2
   preview_only: false
 
 authors:
 - admin
-- 吳恩達
 
 tags:
 - Academic
-- 开源
 
 categories:
 - Demo
@@ -43,4 +41,4 @@ categories:
 
 ## Overview
 
-This is a blog post. type text here. 
+This is a blog post. type **text** here. 
