@@ -70,7 +70,9 @@ email: ""
 highlight_name: false
 ---
 
-Dr Alexandra Gossart is a Research Fellow. Her expertise is in atmospheric modelling at high spatial and temporal resolutions, including detailed study of Antarctic climate processes and feedbacks.
+Alexandra Gossart's expertise is in atmospheric modelling at high spatial and temporal resolutions, including detailed study of Antarctic climate processes and feedbacks. 
+
+Near-surface climate provides an essential boundary condition for most physical and biological systems, and its accurate simulation is fundamental to future projections of Antarctic environments. This fellowship brings skills in atmospheric modelling at high spatial and temporal resolutions to provide inputs to ice sheet and ocean models, terrestrial geo-statistical models, glacial surface energy balance models and terrestrial hydrological routing models. 
 
 In the Antarctic Science Platform, Alex is a member of the National Modelling Hub. Using regional climate models she will provide inputs to continental-scale ice sheet and ocean models, terrestrial geo-statistical models, glacial surface energy balance models and terrestrial hydrological routing models.
 
