@@ -70,8 +70,8 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dr Alexandra Gossart is a Research Fellow. Her expertise is in atmospheric modelling at high spatial and temporal resolutions, including detailed study of Antarctic climate processes and feedbacks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In the Antarctic Science Platform, Alex is a member of the National Modelling Hub. Using regional climate models she will provide inputs to continental-scale ice sheet and ocean models, terrestrial geo-statistical models, glacial surface energy balance models and terrestrial hydrological routing models.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
