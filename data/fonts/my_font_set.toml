@@ -3,11 +3,10 @@
 name = "My Font Set"
 
 # Optional Google font URL
-# google_fonts = "Oswald: 400,500|Alatsi|Roboto:400,400italic,700|Roboto+Mono|Permanent Marker"
 google_fonts = "Dosis: 300,400,600|Alatsi|Roboto:400,400italic,700|Roboto+Mono|Permanent Marker"
 
 # Font families
-heading_font = Dosis"
+heading_font = "Dosis"
 body_font = "Roboto"
 nav_font = "Dosis"
 mono_font = "Roboto Mono"
