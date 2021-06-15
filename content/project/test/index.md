@@ -1,6 +1,6 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Example Project2
+summary: An example of using the in-built project page2.
 tags:
 - Deep Learning
 - code
