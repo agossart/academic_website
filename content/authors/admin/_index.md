@@ -25,15 +25,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Geogrphy
+    institution: University of Leuven
+    year: 2019
+  - course: Msc in Environmental Sciences
+    institution: Universite Libre de Bruxelles
+    year: 2015
+  - course: BSc in Geography
+    institution: Universite Libre de Bruxelles
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -46,12 +46,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/AlexGossart
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gossaral
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/alexandragossart/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -67,10 +64,9 @@ email: "alexandra.gossart@vuw.ac.nz"
 highlight_name: false
 ---
 
-My expertise is in atmospheric modelling at high spatial and temporal resolutions, including detailed study of Antarctic climate processes and feedbacks. 
+I use atmospheric numerical models at high spatial and temporal resolutions, to unravel sone of the Antarctic climate processes and feedbacks. In the Antarctic Science Platform, I am a the climate modeller of the National Modelling Hub. My aim there is to provide inputs to continental-scale ice sheet and ocean models, terrestrial geo-statistical models, glacial surface energy balance models and terrestrial hydrological routing models.
 
-Near-surface climate provides an essential boundary condition for most physical and biological systems, and its accurate simulation is fundamental to future projections of Antarctic environments. This fellowship brings skills in atmospheric modelling at high spatial and temporal resolutions to provide inputs to ice sheet and ocean models, terrestrial geo-statistical models, glacial surface energy balance models and terrestrial hydrological routing models. 
+I have been attracted to polar climate research since early on, simply because near-surface climate provides an essential boundary condition for most physical and biological systems, and its accurate simulation is fundamental to future projections of Antarctic environments and its impact and response on and to global climate change and sea level rise.
 
-In the Antarctic Science Platform, I am a member of the National Modelling Hub. Using regional climate models she will provide inputs to continental-scale ice sheet and ocean models, terrestrial geo-statistical models, glacial surface energy balance models and terrestrial hydrological routing models.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
